@@ -18,3 +18,5 @@ E' un robottino in grado di muoversi per la stanza evitando gli ostacoli
 13. Telecomando
 14. Cavi vari, viteria e colla
 15. Powerbank
+
+## Schema elettrico
