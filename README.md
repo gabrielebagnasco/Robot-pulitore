@@ -1,22 +1,21 @@
 # Robot-pulitore
 Si tratta di un progetto realizzato in ambito universitario.
-E' un robottino in grado di muoversi per la stanza evitando gli ostacoli
+E' un robottino in grado di muoversi per la stanza evitando gli ostacoli. Viene acceso e spento attraverso un telecomando.
 
 ## Materiali utilizzati
 1. Scatola di cartone
 2. Compensato
-3. Ruote
+3. 2 motori DC con ruote
 4. Spazzola (autocostruita)
-5. Arduino uno R3
-6. Sensore ultrasuoni hc-sr04
-7. 3 Motori DC (2 uguali)
-8. L293D
-9. Modulo alimentazione esterna
-10. Servo
-11. Breadbord 830 punti
-12. Ricevitore IR
-13. Telecomando
-14. Cavi vari, viteria e colla
+5. Motore per spazzola
+6. Arduino uno R3
+7. Sensore ultrasuoni hc-sr04
+9. L293D
+11. Servo
+12. Breadbord 830 punti
+13. Ricevitore IR
+14. Telecomando IR
 15. Powerbank
+16. Cavi vari, viteria e colla
 
 ## Schema elettrico
