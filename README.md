@@ -19,3 +19,4 @@ E' un robottino in grado di muoversi per la stanza evitando gli ostacoli. Viene 
 16. Cavi vari, viteria e colla
 
 ## Schema elettrico
+![Dazzling Fyyran](https://github.com/gabrielebagnasco/Robot-pulitore/assets/47850441/a5727e6c-8162-492e-8f54-204814c35e03)
