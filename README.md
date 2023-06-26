@@ -1,6 +1,6 @@
 # Robot-pulitore
 Si tratta di un progetto realizzato in ambito universitario.
-E' un robottino in grado di muoversi per la stanza evitando gli ostacoli. Viene acceso e spento attraverso un telecomando.
+E' un robottino in grado di muoversi per la stanza evitando gli ostacoli.
 
 ## Materiali utilizzati
 1. Scatola di cartone
@@ -13,10 +13,11 @@ E' un robottino in grado di muoversi per la stanza evitando gli ostacoli. Viene 
 9. L293D
 11. Servo
 12. Breadbord 830 punti
-13. Ricevitore IR
-14. Telecomando IR
-15. Powerbank
-16. Cavi vari, viteria e colla
+13. Resistenza 100KOhm
+15. Pulsante
+16. Interruttore
+17. Powerbank
+18. Cavi vari, viteria e colla
 
 ## Schema elettrico
-![Dazzling Fyyran](https://github.com/gabrielebagnasco/Robot-pulitore/assets/47850441/a5727e6c-8162-492e-8f54-204814c35e03)
+![schema circuito](https://github.com/gabrielebagnasco/Robot-pulitore/assets/47850441/e1a24fd4-681c-469a-af91-888cc11fb757)
