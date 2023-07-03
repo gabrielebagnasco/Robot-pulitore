@@ -7,11 +7,11 @@ E' un robottino in grado di muoversi per la stanza evitando gli ostacoli.
 2. Compensato
 3. 2 motori DC con ruote
 4. Spazzola (autocostruita)
-5. Motore per spazzola
+5. Motore DC con pulegge per spazzola
 6. Arduino uno R3
-7. Sensore ultrasuoni hc-sr04
+7. Sensore ad ultrasuoni hc-sr04
 9. L293D
-11. Servo
+11. Servo sg-90
 12. Breadbord 830 punti
 13. Resistenza 100KOhm
 15. Pulsante
@@ -21,3 +21,5 @@ E' un robottino in grado di muoversi per la stanza evitando gli ostacoli.
 
 ## Schema elettrico
 ![schema circuito](https://github.com/gabrielebagnasco/Robot-pulitore/assets/47850441/e1a24fd4-681c-469a-af91-888cc11fb757)
+
+##foto
