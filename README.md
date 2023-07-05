@@ -20,6 +20,6 @@ E' un robottino in grado di muoversi per la stanza evitando gli ostacoli.
 18. Cavi vari, viteria e colla
 
 ## Schema elettrico
-![schema circuito](https://github.com/gabrielebagnasco/Robot-pulitore/assets/47850441/e1a24fd4-681c-469a-af91-888cc11fb757)
+![schema circuito](https://github.com/gabrielebagnasco/Robot-pulitore/assets/47850441/f47130c6-8d20-47e9-8f7c-b000a5f1c5c7)
 
-##foto
+## foto
