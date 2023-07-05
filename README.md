@@ -23,3 +23,6 @@ E' un robottino in grado di muoversi per la stanza evitando gli ostacoli.
 ![schema circuito](https://github.com/gabrielebagnasco/Robot-pulitore/assets/47850441/f47130c6-8d20-47e9-8f7c-b000a5f1c5c7)
 
 ## foto
+![foto](https://github.com/gabrielebagnasco/Robot-pulitore/assets/47850441/236492ba-265a-47d3-9bab-6b423d4f207f)
+
+![foto](https://github.com/gabrielebagnasco/Robot-pulitore/assets/47850441/e61f6dde-8371-4e09-b92f-1a92bee0ff04)
