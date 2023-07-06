@@ -1,6 +1,7 @@
 # Robot-pulitore
 Si tratta di un progetto realizzato in ambito universitario.
-E' un robottino in grado di muoversi per la stanza evitando gli ostacoli.
+E' un robottino in grado di pulire il pavimento muovendosi per la stanza evitando gli ostacoli.
+Il robottino fa uso di due motori DC che ne permettono il movimento. La rilevazione degli ostacoli è invece assicurata da un sensore ad ultrasuoni installato sopra ad un servo. Quando il robot si trova a 30 cm di distanza da un ostacolo si ferma, controlla se ci sono ostacoli sulla destra e sulla sinistra, si gira nella direzione con l'ostacolo più distante e riprende a muoversi. La pulizia del pavimento avviene grazie ad una spazzola autocostruita che ruota grazie ad un altro motore DC. Lo sporco viene raccolto in un serbatoio svuotabile rimuovendo un tappo. Per accendere e spegnere il robot basta cliccare un pulsante e accendere la spazzola.
 
 ## Materiali utilizzati
 1. Scatola di cartone
