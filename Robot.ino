@@ -1,12 +1,12 @@
 #include <Servo.h>
 #include "SR04.h"
 
-int enable = LOW;
-int pos = 95;
-int pinButton = 13;
-int valButtonOld = LOW;
-int statoDx = 255;
-int statoSx = 255;
+byte enable = LOW;
+byte pos = 95;
+byte pinButton = 13;
+byte valButtonOld = LOW;
+byte statoDx = 255;
+byte statoSx = 245;
 long distance;
 long distanceDx;
 long distanceSx;
@@ -14,8 +14,8 @@ long distanceSx;
 #define ENABLEDX 5
 #define DIRADX 3
 #define DIRBDX 4
-#define ENABLESX 9
-#define DIRASX 6
+#define ENABLESX 6
+#define DIRASX 9
 #define DIRBSX 7
 #define TRIG_PIN 12
 #define ECHO_PIN 11
